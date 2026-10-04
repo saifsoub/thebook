@@ -15,7 +15,6 @@ Nothing to run.
 ## Current status and known gaps
 - Empty so far; there's no description on GitHub.
 - Purpose: not yet confirmed.
-- The repo retirement plan in `General-Requests` suggests archiving it.
 
 ## Where things live
 | File | What's in it |
